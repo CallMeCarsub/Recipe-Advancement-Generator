@@ -60,3 +60,5 @@ input_packs/*/
 input_packs/*.zip
 output_pack/*
 !output_pack/.keep
+
+work/
