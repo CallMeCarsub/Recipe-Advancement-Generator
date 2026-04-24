@@ -158,7 +158,8 @@ if(advancements.length == 0){
 
 fs.writeFileSync("./output_pack/pack.mcmeta", `{
   "pack": {
-    "pack_format": 94,
+    "min_format": [88],
+    "max_format": [199],
     "description": "recipe advancements (made with Recipe-Advancement-Generator)"
   }
 }`);

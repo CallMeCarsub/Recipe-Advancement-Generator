@@ -4,10 +4,13 @@
   "category": "equipment",
   "ingredients": [
     "torch",
+    "torch",
+    "torch",
+    "torch",
     "copper_nugget"
   ],
   "result": {
     "id": "minecraft:copper_torch",
-    "count": 1
+    "count": 4
   }
 }
