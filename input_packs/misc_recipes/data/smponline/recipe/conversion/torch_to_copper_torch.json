@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "smponline:conversion",
+  "category": "equipment",
+  "ingredients": [
+    "torch",
+    "copper_nugget"
+  ],
+  "result": {
+    "id": "minecraft:copper_torch",
+    "count": 1
+  }
+}
