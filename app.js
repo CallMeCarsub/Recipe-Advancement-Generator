@@ -5,6 +5,7 @@ const AdmZip = require("adm-zip");
 try{
     fs.rmSync("./output_pack/*/", {recursive: true, force: true})
     fs.rmSync("./output_pack/pack.mcmeta", {recursive: true, force: true})
+    fs.rmSync("./output_pack/*.zip", {recursive: true, force: true})
 }catch(e){}
 
 // refresh work dir
@@ -176,4 +177,9 @@ for(var i = 0; i < advancements.length; i++){
         {encoding: "utf-8"}
     )
 }
+console.log("creating zip")
+var outputZip = new AdmZip();
+outputZip.addLocalFile("./output_pack/pack.mcmeta", "/");
+outputZip.addLocalFolder("./output_pack/data", "/data")
+outputZip.writeZip("./output_pack/generated_recipe_advancement_pack.zip")
 console.log("done");
