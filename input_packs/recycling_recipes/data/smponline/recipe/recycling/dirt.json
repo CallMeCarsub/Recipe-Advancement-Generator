@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "smponline:recycling",
+  "category": "building",
+  "pattern": [
+    "xxx",
+    "xyx",
+    "xxx"
+  ],
+  "key": {
+    "x": [
+      "minecraft:sand",
+      "minecraft:red_sand"
+    ],
+    "y": [
+      "minecraft:moss_block",
+      "minecraft:pale_moss_block"
+    ]
+  },
+  "result": {
+    "id": "minecraft:dirt",
+    "count": 9
+  }
+}
