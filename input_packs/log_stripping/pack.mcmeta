@@ -1,6 +1,8 @@
 {
   "pack": {
-    "supported_formats": [88, 100],
+    "min_format": [88],
+    "max_format": [199],
+    "supported_formats": [88, 199],
     "description": "log stripping recipes"
   }
 }
