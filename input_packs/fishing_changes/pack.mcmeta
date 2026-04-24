@@ -2,7 +2,6 @@
   "pack": {
     "min_format": [88],
     "max_format": [199],
-    "supported_formats": [88, 199],
     "description": "fishing changes"
   }
 }
