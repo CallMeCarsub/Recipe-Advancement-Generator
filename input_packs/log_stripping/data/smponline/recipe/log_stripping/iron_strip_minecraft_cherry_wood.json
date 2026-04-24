@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "smponline:iron_stripping",
+    "category": "building",
+    "ingredients": [
+        "minecraft:cherry_wood",
+        "minecraft:cherry_wood",
+        "minecraft:cherry_wood",
+        "minecraft:cherry_wood",
+        "minecraft:cherry_wood",
+        "minecraft:cherry_wood",
+        "minecraft:cherry_wood",
+        "minecraft:cherry_wood",
+        "iron_nugget"
+    ],
+    "result": {
+        "id": "minecraft:stripped_cherry_wood",
+        "count": 8
+    }
+}

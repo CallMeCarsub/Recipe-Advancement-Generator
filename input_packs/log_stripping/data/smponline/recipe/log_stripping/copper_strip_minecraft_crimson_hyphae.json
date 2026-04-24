@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "smponline:copper_stripping",
+    "category": "building",
+    "ingredients": [
+        "minecraft:crimson_hyphae",
+        "minecraft:crimson_hyphae",
+        "minecraft:crimson_hyphae",
+        "minecraft:crimson_hyphae",
+        "minecraft:crimson_hyphae",
+        "minecraft:crimson_hyphae",
+        "copper_nugget"
+    ],
+    "result": {
+        "id": "minecraft:stripped_crimson_hyphae",
+        "count": 6
+    }
+}

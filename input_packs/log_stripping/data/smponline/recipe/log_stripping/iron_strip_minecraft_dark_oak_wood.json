@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "smponline:iron_stripping",
+    "category": "building",
+    "ingredients": [
+        "minecraft:dark_oak_wood",
+        "minecraft:dark_oak_wood",
+        "minecraft:dark_oak_wood",
+        "minecraft:dark_oak_wood",
+        "minecraft:dark_oak_wood",
+        "minecraft:dark_oak_wood",
+        "minecraft:dark_oak_wood",
+        "minecraft:dark_oak_wood",
+        "iron_nugget"
+    ],
+    "result": {
+        "id": "minecraft:stripped_dark_oak_wood",
+        "count": 8
+    }
+}

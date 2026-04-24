@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "smponline:copper_stripping",
+    "category": "building",
+    "ingredients": [
+        "minecraft:oak_log",
+        "minecraft:oak_log",
+        "minecraft:oak_log",
+        "minecraft:oak_log",
+        "minecraft:oak_log",
+        "minecraft:oak_log",
+        "copper_nugget"
+    ],
+    "result": {
+        "id": "minecraft:stripped_oak_log",
+        "count": 6
+    }
+}

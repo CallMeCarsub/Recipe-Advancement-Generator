@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "smponline:flower_duplication",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:open_eyeblossom",
+    "minecraft:bone_meal",
+    "minecraft:bone_meal",
+    "minecraft:bone_meal"
+  ],
+  "result": {
+    "id": "minecraft:open_eyeblossom",
+    "count": 2
+  }
+}

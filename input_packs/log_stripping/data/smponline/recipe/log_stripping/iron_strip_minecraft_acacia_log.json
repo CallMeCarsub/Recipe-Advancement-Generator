@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "smponline:iron_stripping",
+    "category": "building",
+    "ingredients": [
+        "minecraft:acacia_log",
+        "minecraft:acacia_log",
+        "minecraft:acacia_log",
+        "minecraft:acacia_log",
+        "minecraft:acacia_log",
+        "minecraft:acacia_log",
+        "minecraft:acacia_log",
+        "minecraft:acacia_log",
+        "iron_nugget"
+    ],
+    "result": {
+        "id": "minecraft:stripped_acacia_log",
+        "count": 8
+    }
+}

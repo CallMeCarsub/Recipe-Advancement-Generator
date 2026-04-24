@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "smponline:copper_stripping",
+    "category": "building",
+    "ingredients": [
+        "minecraft:mangrove_wood",
+        "minecraft:mangrove_wood",
+        "minecraft:mangrove_wood",
+        "minecraft:mangrove_wood",
+        "minecraft:mangrove_wood",
+        "minecraft:mangrove_wood",
+        "copper_nugget"
+    ],
+    "result": {
+        "id": "minecraft:stripped_mangrove_wood",
+        "count": 6
+    }
+}

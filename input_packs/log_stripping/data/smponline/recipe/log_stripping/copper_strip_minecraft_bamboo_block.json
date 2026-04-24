@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "smponline:copper_stripping",
+    "category": "building",
+    "ingredients": [
+        "minecraft:bamboo_block",
+        "minecraft:bamboo_block",
+        "minecraft:bamboo_block",
+        "minecraft:bamboo_block",
+        "minecraft:bamboo_block",
+        "minecraft:bamboo_block",
+        "copper_nugget"
+    ],
+    "result": {
+        "id": "minecraft:stripped_bamboo_block",
+        "count": 6
+    }
+}

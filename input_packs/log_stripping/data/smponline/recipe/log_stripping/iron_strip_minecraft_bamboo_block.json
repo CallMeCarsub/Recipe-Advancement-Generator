@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "smponline:iron_stripping",
+    "category": "building",
+    "ingredients": [
+        "minecraft:bamboo_block",
+        "minecraft:bamboo_block",
+        "minecraft:bamboo_block",
+        "minecraft:bamboo_block",
+        "minecraft:bamboo_block",
+        "minecraft:bamboo_block",
+        "minecraft:bamboo_block",
+        "minecraft:bamboo_block",
+        "iron_nugget"
+    ],
+    "result": {
+        "id": "minecraft:stripped_bamboo_block",
+        "count": 8
+    }
+}

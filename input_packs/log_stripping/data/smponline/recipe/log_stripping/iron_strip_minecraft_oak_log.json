@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "smponline:iron_stripping",
+    "category": "building",
+    "ingredients": [
+        "minecraft:oak_log",
+        "minecraft:oak_log",
+        "minecraft:oak_log",
+        "minecraft:oak_log",
+        "minecraft:oak_log",
+        "minecraft:oak_log",
+        "minecraft:oak_log",
+        "minecraft:oak_log",
+        "iron_nugget"
+    ],
+    "result": {
+        "id": "minecraft:stripped_oak_log",
+        "count": 8
+    }
+}

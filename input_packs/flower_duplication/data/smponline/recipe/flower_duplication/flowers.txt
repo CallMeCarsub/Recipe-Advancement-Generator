@@ -1,0 +1,12 @@
+red_tulip
+poppy
+oxeye_daisy
+azure_bluet
+white_tulip
+lily_of_the_valley
+orange_tulip
+dandelion
+pink_tulip
+allium
+blue_orchid
+cornflower

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "smponline:copper_stripping",
+    "category": "building",
+    "ingredients": [
+        "minecraft:cherry_wood",
+        "minecraft:cherry_wood",
+        "minecraft:cherry_wood",
+        "minecraft:cherry_wood",
+        "minecraft:cherry_wood",
+        "minecraft:cherry_wood",
+        "copper_nugget"
+    ],
+    "result": {
+        "id": "minecraft:stripped_cherry_wood",
+        "count": 6
+    }
+}

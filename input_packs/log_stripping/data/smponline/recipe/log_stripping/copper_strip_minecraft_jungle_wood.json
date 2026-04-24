@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "smponline:copper_stripping",
+    "category": "building",
+    "ingredients": [
+        "minecraft:jungle_wood",
+        "minecraft:jungle_wood",
+        "minecraft:jungle_wood",
+        "minecraft:jungle_wood",
+        "minecraft:jungle_wood",
+        "minecraft:jungle_wood",
+        "copper_nugget"
+    ],
+    "result": {
+        "id": "minecraft:stripped_jungle_wood",
+        "count": 6
+    }
+}

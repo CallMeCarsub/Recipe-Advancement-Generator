@@ -56,8 +56,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-input_packs/*/
 input_packs/*.zip
+!input_packs/*/
 output_pack/*
 !output_pack/.keep
 

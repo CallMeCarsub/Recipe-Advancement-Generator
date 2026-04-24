@@ -1,0 +1,12 @@
+oak
+spruce
+birch
+jungle
+acacia
+dark_oak
+mangrove
+cherry
+pale_oak
+bamboo_block
+crimson_stem / crimson_hyphae
+warped_stem / warped_hyphae

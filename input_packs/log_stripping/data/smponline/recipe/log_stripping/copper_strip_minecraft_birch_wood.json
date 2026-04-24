@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "smponline:copper_stripping",
+    "category": "building",
+    "ingredients": [
+        "minecraft:birch_wood",
+        "minecraft:birch_wood",
+        "minecraft:birch_wood",
+        "minecraft:birch_wood",
+        "minecraft:birch_wood",
+        "minecraft:birch_wood",
+        "copper_nugget"
+    ],
+    "result": {
+        "id": "minecraft:stripped_birch_wood",
+        "count": 6
+    }
+}

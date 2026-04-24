@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "smponline:iron_stripping",
+    "category": "building",
+    "ingredients": [
+        "minecraft:crimson_stem",
+        "minecraft:crimson_stem",
+        "minecraft:crimson_stem",
+        "minecraft:crimson_stem",
+        "minecraft:crimson_stem",
+        "minecraft:crimson_stem",
+        "minecraft:crimson_stem",
+        "minecraft:crimson_stem",
+        "iron_nugget"
+    ],
+    "result": {
+        "id": "minecraft:stripped_crimson_stem",
+        "count": 8
+    }
+}

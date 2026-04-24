@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "smponline:copper_stripping",
+    "category": "building",
+    "ingredients": [
+        "minecraft:acacia_wood",
+        "minecraft:acacia_wood",
+        "minecraft:acacia_wood",
+        "minecraft:acacia_wood",
+        "minecraft:acacia_wood",
+        "minecraft:acacia_wood",
+        "copper_nugget"
+    ],
+    "result": {
+        "id": "minecraft:stripped_acacia_wood",
+        "count": 6
+    }
+}

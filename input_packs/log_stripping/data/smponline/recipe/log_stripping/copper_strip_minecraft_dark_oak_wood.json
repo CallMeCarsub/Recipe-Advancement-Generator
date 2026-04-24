@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "smponline:copper_stripping",
+    "category": "building",
+    "ingredients": [
+        "minecraft:dark_oak_wood",
+        "minecraft:dark_oak_wood",
+        "minecraft:dark_oak_wood",
+        "minecraft:dark_oak_wood",
+        "minecraft:dark_oak_wood",
+        "minecraft:dark_oak_wood",
+        "copper_nugget"
+    ],
+    "result": {
+        "id": "minecraft:stripped_dark_oak_wood",
+        "count": 6
+    }
+}

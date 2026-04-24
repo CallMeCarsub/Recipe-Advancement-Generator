@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "smponline:iron_stripping",
+    "category": "building",
+    "ingredients": [
+        "minecraft:warped_stem",
+        "minecraft:warped_stem",
+        "minecraft:warped_stem",
+        "minecraft:warped_stem",
+        "minecraft:warped_stem",
+        "minecraft:warped_stem",
+        "minecraft:warped_stem",
+        "minecraft:warped_stem",
+        "iron_nugget"
+    ],
+    "result": {
+        "id": "minecraft:stripped_warped_stem",
+        "count": 8
+    }
+}
